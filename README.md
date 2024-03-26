@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sottacetoarmato" alt="sottacetoarmato" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LorenzoZuccante" alt="sottacetoarmato" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Python**
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/lorenzo-zuccante-b920a02a0/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
